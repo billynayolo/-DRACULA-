@@ -10,7 +10,7 @@
   "env": {
     "PREFIX": {
       "description": "Choose your prefix for your bot",
-      "value": ".",
+      "value": "@",
       "required": true
     },
     "AUTO_REJECT_CALL": {
@@ -50,7 +50,7 @@
     },
     "BOT_NAME": {
       "description": "Name for your bot",
-      "value": "BWM-XMD",
+      "value": "DRACULA",
       "required": false
     },
     "BOT_IMAGE": {
@@ -80,7 +80,7 @@
     },
    "STATUS_REACT_EMOJIS": {
       "description": "Enter your auto like status emojis",
-      "value": "💚,🚀,🌎,✅",
+      "value": "🔪,📝,🧛‍♂️,🧛",
       "required": false 
     },
     "AUTO_REACT": {
@@ -95,7 +95,7 @@
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "Ibrahim Adams",
+      "value": "BZ BK",
       "required": false
     },
     "SESSION_ID": {
